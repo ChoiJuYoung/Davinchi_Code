@@ -1,0 +1,4 @@
+19 행: CheckSock 컨트롤의 MSWinsockLib.Winsock 클래스는 로드한 컨트롤 클래스가 아닙니다.
+22 행: CheckSock의 _ExtentX 속성 이름이 잘못되었습니다. 
+23 행: CheckSock의 _ExtentY 속성 이름이 잘못되었습니다. 
+24 행: CheckSock의 _Version 속성 이름이 잘못되었습니다. 
